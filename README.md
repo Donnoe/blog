@@ -1,2 +1,2 @@
-# blog
-Donnoe's blog
+# Blog
+Donnoe's Blog
